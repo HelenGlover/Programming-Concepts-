@@ -1,11 +1,5 @@
 # Programming-Concepts-
-Coursework for CSC151 Programming Concepts 
-
-
-
-
-
-
+A collection of projects for my computer class, Programming Concepts 
 # Languages: 
 
 Ruby
